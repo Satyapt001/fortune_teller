@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.holder{
+    margin:25px;
+}
+.container{
+    margin:0 auto;
+}
